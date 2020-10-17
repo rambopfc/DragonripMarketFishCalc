@@ -5,6 +5,7 @@
 // @description  Calculate fish price per health
 // @author       Joe
 // @match        https://www.dragonrip.com/game/marketr.php?go=6*
+// @run-at document-start
 // @grant        none
 // ==/UserScript==
 
