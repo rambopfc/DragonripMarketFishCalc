@@ -109,6 +109,9 @@ function getfishhp(fishname) {
    case "Dogfish Shark":
     fishhp = 21;
     break;
+    case "Nautilus":
+    fishhp = 22;
+    break;
   default:
     fishhp = 0;
 }
