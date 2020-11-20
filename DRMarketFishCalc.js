@@ -112,6 +112,9 @@ function getfishhp(fishname) {
     case "Nautilus":
     fishhp = 22;
     break;
+    case "Barracuda":
+    fishhp = 23;
+    break;
   default:
     fishhp = 0;
 }
