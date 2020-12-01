@@ -7,6 +7,8 @@
 // @match        https://www.dragonrip.com/game/marketr.php?go=6*
 // @run-at document-start
 // @grant        none
+// @downloadURL https://github.com/rambopfc/DragonripMarketFishCalc/blob/master/DRMarketFishCalc.js
+// @updateURL https://github.com/rambopfc/DragonripMarketFishCalc/blob/master/DRMarketFishCalc.js
 // ==/UserScript==
 
 var fishhp
