@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DragonRip Market Fish Price Calculator
 // @namespace    https://dragonrip.com/game/
-// @version      0.2
+// @version      0.3
 // @description  Calculate fish price per health
 // @author       Joe
 // @match        https://www.dragonrip.com/game/marketr.php?go=6*
