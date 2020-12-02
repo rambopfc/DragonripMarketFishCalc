@@ -8,7 +8,6 @@
 // @run-at document-start
 // @grant        none
 // @downloadURL https://raw.githubusercontent.com/rambopfc/DragonripMarketFishCalc/master/DRMarketFishCalc.js
-// @updateURL https://raw.githubusercontent.com/rambopfc/DragonripMarketFishCalc/master/DRMarketFishCalc.js
 // ==/UserScript==
 
 var fishhp
