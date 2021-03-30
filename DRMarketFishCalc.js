@@ -119,6 +119,9 @@ function getfishhp(fishname) {
     case "Moongleam":
     fishhp = 24;		  
     break;
+    case "Fangtooth":
+    fishhp = 27;		  
+    break;
   default:
     fishhp = 0;
 }
